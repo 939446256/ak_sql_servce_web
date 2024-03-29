@@ -6,7 +6,6 @@
 **功能4 链表管理, 简化链表,避免重复工作<br/>**
 **功能5 链表查询和接口间的链表能力<br/>**
 ![image](https://github.com/939446256/ak_sql_servce_web/assets/18087848/c4d7e7cf-cad6-4ae3-960b-ec3ca4b0bd11)
-![image](https://github.com/939446256/ak_sql_servce_web/assets/18087848/67a0a924-09dc-4559-891b-d4c0fd19dbe0)
 
 ### 1.2项目启动
 **1.启动后端JAVA项目 <a href="https://github.com/939446256/ak_sql_servce_java">ak_sql_servce_java</a> 语言:JAVA<br/>**
